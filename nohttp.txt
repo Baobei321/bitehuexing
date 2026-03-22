@@ -1,7 +1,5 @@
 udp://52.58.128.163:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
 udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
@@ -19,8 +17,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
@@ -44,15 +40,11 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://opentracker.io:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.lanta.me:2710/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -78,6 +70,8 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
+udp://tracker.cubonegro.org:80/announce
+
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -95,8 +89,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -135,8 +127,6 @@ udp://tracker.wepzone.net:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
