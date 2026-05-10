@@ -120,6 +120,8 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrentclaw.com:1337/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
@@ -145,6 +147,8 @@ udp://vito-tracker.duckdns.org:6969/announce
 udp://vito-tracker.space:2095/announce
 
 udp://vito-tracker.space:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
