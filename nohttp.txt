@@ -52,13 +52,13 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
 
+udp://speedtest.iperson.xyz:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
 
 udp://torrents.tmtime.dev:6969/announce
-
-udp://tr.btube3.com:2010/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -151,10 +151,6 @@ udp://uabits.today:6990/announce
 udp://udp.trackarr.org:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://v6.vito-tracker.space:6969/announce
-
-udp://vito-tracker.duckdns.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
