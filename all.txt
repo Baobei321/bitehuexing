@@ -1,7 +1,5 @@
 http://004430.xyz:80/announce
 
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -14,15 +12,11 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://bt2.archive.org:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -34,11 +28,7 @@ http://tr.highstar.shop:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -53,6 +43,8 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -104,8 +96,6 @@ https://tracker.7471.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tracker.bug38.com:443/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -144,13 +134,13 @@ udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://cerf.cs.umd.edu:8000/announce
+
 udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -180,11 +170,7 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://seedpeer.net:6969/announce
-
-udp://speedtest.iperson.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -229,6 +215,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
+
+udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -280,7 +268,7 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://v6.vito-tracker.space:6969/announce
 
-udp://whybother.torrentonline.cc:42069/announce
+udp://vito-tracker.duckdns.org:6969/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
