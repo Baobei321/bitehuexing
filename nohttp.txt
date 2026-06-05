@@ -34,8 +34,6 @@ udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
@@ -53,6 +51,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://speedtest.iperson.xyz:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -114,6 +114,8 @@ udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.riverarmy.xyz:6969/announce
+
 udp://tracker.sharebro.in:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -147,6 +149,8 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://v6.vito-tracker.space:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
+
+udp://vito-tracker.space:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
