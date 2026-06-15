@@ -96,9 +96,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
+
+udp://tracker.huadongblower.xyz:8080/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
@@ -146,9 +150,7 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://uabits.today:6990/announce
 
-udp://wepzone.net:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
+udp://udp.tracker.projectk.org:23333/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
