@@ -64,8 +64,6 @@ udp://torrentclub.online:54123/announce
 
 udp://torrents.tmtime.dev:6969/announce
 
-udp://tr.btube3.com:2010/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -120,8 +118,6 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.t-1.org:6969/announce
-
 udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
@@ -129,6 +125,8 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
@@ -145,4 +143,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
+
+udp://zer0day.ch:1337/announce
 
