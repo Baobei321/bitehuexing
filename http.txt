@@ -28,8 +28,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://supertracker.cc.cd:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
@@ -52,8 +50,6 @@ http://tracker.opentorrent.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
@@ -61,8 +57,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
