@@ -1,3 +1,5 @@
+http://004430.xyz:80/announce
+
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -64,8 +66,6 @@ https://1337.abcvg.info:443/announce
 
 https://open.ftorrent.com:443/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
@@ -91,6 +91,8 @@ https://tracker.onetracker.net:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
