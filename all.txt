@@ -26,8 +26,6 @@ http://tr.nyacat.pw:80/announce
 
 http://tracker.23794.top:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -48,11 +46,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -78,8 +72,6 @@ https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -97,6 +89,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.nekomi.cn:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.qingwapt.org:443/announce
 
@@ -150,6 +144,8 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -184,8 +180,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
-udp://tracker.23794.top:6969/announce
-
 udp://tracker.alt.cx:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
@@ -203,6 +197,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.evergarden.uk:1914/announce
 
@@ -242,6 +238,10 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
+udp://tracker.t-rb.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
@@ -263,8 +263,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
-
-udp://v2.iperson.xyz:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
