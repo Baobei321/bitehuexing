@@ -48,6 +48,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -64,6 +66,8 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://ht.therarbg.to:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
@@ -72,7 +76,7 @@ https://t1.hloli.org:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -232,8 +236,6 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.sela.st:6969/announce
-
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -263,6 +265,8 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 
